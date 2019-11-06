@@ -1,9 +1,9 @@
 #!/bin/bash
 # Setup file for kenn's rc-file
 
-#git clone https://github.com/kennhung/rc-files.git
+git clone https://github.com/kennhung/rc-files.git
 
-#mkdir rc_old
+mkdir rc_old
 
 read -r -p "Install .vimrc? [y/N] " response
 case $response in
