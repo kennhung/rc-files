@@ -1,5 +1,7 @@
 # rc-files
 
+* You have to install zsh before using this
+
 # Run
 
 ```
